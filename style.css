@@ -1,0 +1,68 @@
+.title{
+    color: blueviolet;
+}
+body {
+    background-color: #ECEBF3;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+main{
+    padding-bottom:5em;
+}
+
+
+h1 {
+    margin-top: 1.5em;
+    color: #444054;
+    font-size: 3.5em;
+}
+
+h1>a{
+    text-decoration: none;
+    color:inherit;
+}
+
+table {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    border: 1px solid black;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #444054;
+    color: #ECEBF3
+}
+
+th>a {
+    color: inherit;
+    font-size: 1.25em;
+}
+
+td {
+    font-size: .9em;
+}
+
+#headings {
+    padding-left: 0;
+    padding-right: 0;
+    list-style: none;
+}
+
+#headings li {
+    padding-bottom: 1em;
+}
+
+
+#sdk h2 {
+    background-color: #68A691;
+}
+
+#sdk p {
+    color: #68A691;
+}
